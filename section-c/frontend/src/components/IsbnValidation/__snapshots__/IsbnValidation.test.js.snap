@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchCriteria component renders inline with snapshot 1`] = `
+<div
+  className="main-wrapper"
+>
+  <h1>
+    ISBN13
+  </h1>
+  <div
+    className="mb-3 input-group"
+  >
+    <input
+      className="form-control"
+      name="isbnString"
+      onChange={[Function]}
+      placeholder="Enter the ISBN string"
+      value=""
+    />
+    <button
+      className="verify-isbn-button btn btn-outline-secondary"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+    >
+      Verify ISBN-13
+    </button>
+  </div>
+  <div
+    className="response-wrapper"
+  >
+    
+  </div>
+</div>
+`;
