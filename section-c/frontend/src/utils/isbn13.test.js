@@ -9,6 +9,15 @@
  * (str).
  *
  * Then we test this expectation using the chai expect() method
+ *
+ * For each of the test cases, we ensure that we cover as many
+ * scenarios as possible for all the aspect of ISBN-10 and
+ * ISBN-13 that can be including those with "X" at the end and
+ * those with no "X" at the end.
+ *
+ * In each of the situation we try to expect what would be the
+ * return value from running the isbn13 method and then check
+ * whether that is the actual result
  */
 
 // IMPORTS
