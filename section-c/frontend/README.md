@@ -15,7 +15,9 @@ If you need to see this application in action in development mode you can downlo
 
 You may also clone the repo from https://github.com/gbundala/marketplace-reviewer-task into your local environment or download the zip file from Github and follow the steps above.
 
-To test the application, `cd` into the `frontend` directory from the root directly and follow the following steps to start testing application by running **`npm test`** which will run the test and give the results on the command line.
+To test the application, `cd` into the `frontend` directory from the root directly and follow the following steps to start testing application by running **`npm test`** then Press **`a`** to run all tests which will run all the test cases and give the results on the command line like the image below.
+
+![Testing Results](./images/testing_results.png)
 
 Once all the tests pass then you are good to go and you can move on the next steps in development such as reviewing the code and committing changes to your repo for a Pull Request (PR).
 
